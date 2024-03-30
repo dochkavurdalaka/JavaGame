@@ -24,3 +24,9 @@ As soon as any player gets six or more points, he becomes winner in the game and
 
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/f98f35e6-8d3f-44d9-92fb-0076dc730b1d)
 
+After that, server is opened for connections again. Players can connect to server and start a new game, using start game button.
+![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/1cb9399c-f76c-4c8f-8c5a-448cccb5f95a)
+
+![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/3835690e-56f6-4add-b965-13a6dbefbacf)
+
+
