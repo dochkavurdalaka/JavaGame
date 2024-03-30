@@ -15,4 +15,6 @@ Clients should push start game button to start playing. After that client see hi
 After all clients connected, circles start to moving and client can shot an arrow or pause game:
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/b26ac3d8-a26c-47c5-8b36-aea183ab1245)
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/eca5fc01-6aad-4d77-bdf4-7cd98f384b94)
+![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/ae60417e-0d7e-42a2-9ab9-67804b5f0c74)
+
 
