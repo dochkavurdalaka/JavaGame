@@ -18,7 +18,7 @@ After all clients connected, circles start moving and client can shot an arrow o
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/ae60417e-0d7e-42a2-9ab9-67804b5f0c74)
 
 If player hits with his arrow blue circle,then he gets one point, if he hits yellow circle, he gets 2 points. Yellow circle moves 2x faster then blue.
-As soon as any player gets six or more points, he becomes winner in the game and the game stops. Server print to console the name of the winner, and all clients automatically disconnect from server.
+As soon as any player gets six or more points, this gamer becomes winner in the game and the game stops. Server print to console the name of the winner, and all clients automatically disconnect from server.
 
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/718fc82f-259c-4aaf-ac62-2ea14d3b5cc9)
 
