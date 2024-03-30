@@ -21,5 +21,6 @@ If player hits with his arrow blue circle,then he gets one point, if he hits yel
 As soon as any player gets six or more points, he becomes winner in the game and the game stops. Server print to console the name of the winner, and all clients automatically disconnect from server.
 
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/718fc82f-259c-4aaf-ac62-2ea14d3b5cc9)
+
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/f98f35e6-8d3f-44d9-92fb-0076dc730b1d)
 
