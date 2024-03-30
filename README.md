@@ -12,7 +12,7 @@ Client should run the application:
 Clients should push start game button to start playing. After that, client connects to server and his position in the graphic form becomes marked by red triangle and form shows his gamer id: 
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/e9c6b8ac-1b3f-4dea-a4a8-9a6f627a38e7)
 
-After all clients connected, circles start to moving and client can shot an arrow or pause game:
+After all clients connected, circles start moving and client can shot an arrow or pause game:
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/b26ac3d8-a26c-47c5-8b36-aea183ab1245)
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/eca5fc01-6aad-4d77-bdf4-7cd98f384b94)
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/ae60417e-0d7e-42a2-9ab9-67804b5f0c74)
