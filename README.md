@@ -6,12 +6,13 @@ Class MulCliGameController implements a handler, which update graphic form, used
 hello-view.fxml describes this graphic form on FXML language
 
 First, server starts working. After that, clients are connectecting to him. 
-Client should run the application. 
+Client should run the application: 
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/ed313a2d-412b-47b6-a79b-2da0e97d1df6)
 
-Clients should push start game button to start playing. After that client see his position is marked by red triangle and form show his gamer id. 
-![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/c5ed0c15-d7b2-4114-be3c-3ac67ece97fb)
-
-After all clients connected, circles start to moving and client can shot an arrow or pause game.
+Clients should push start game button to start playing. After that client see his position is marked by red triangle and form show his gamer id: 
 ![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/e9c6b8ac-1b3f-4dea-a4a8-9a6f627a38e7)
+
+After all clients connected, circles start to moving and client can shot an arrow or pause game:
+![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/b26ac3d8-a26c-47c5-8b36-aea183ab1245)
+![image](https://github.com/dochkavurdalaka/JavaGame/assets/30550066/eca5fc01-6aad-4d77-bdf4-7cd98f384b94)
 
